@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Keyboard",
+      "brand": "Trust"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "brand": "Trust"
+    },
+    {
+      "id": 3,
+      "name": "Headphone",
+      "brand": "Trust"
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "brand": "Samsung"
+    },
+    {
+      "name": "Speaker",
+      "brand": "Genius",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "detail": "GXT 890 Cada",
+      "price": 120,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "detail": "GXT 188 Laban",
+      "price": 80,
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "detail": "GXT 860 Thura",
+      "price": 60,
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "detail": "GXT 170 Heron",
+      "price": 60,
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "detail": "GXT 322 Carus",
+      "price": 30,
+      "categoryId": 3
+    }
+  ]
+}
