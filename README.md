@@ -22,3 +22,13 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Customs - Alfredo Ramos - Important
+### levantar el json-serve
+```
+npm run json
+```
+### levantar el front
+```
+npm run server
+```
