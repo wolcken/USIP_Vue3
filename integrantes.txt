@@ -1,0 +1,15 @@
+Practica2 Vue3
+
+Nombre(s) de integrantes(s):
+    - Luis Alfredo Ramos Velasco
+
+Pasos para iniciar el proyecto
+
+    - levantar el json-serve
+        ```
+        npm run json
+        ```
+    - levantar el front
+        ```
+        npm run serve
+        ```
